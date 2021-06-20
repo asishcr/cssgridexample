@@ -31,8 +31,9 @@ body{
 
 .main-nav{
     display:flex;
+    height:5vh;
     list-style:none;
-    font-size:0.7em;
+    font-size:1em;
     margin:0;
 
 }
